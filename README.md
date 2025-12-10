@@ -109,6 +109,18 @@ student = students_df.loc['MIT001']  # Instant access!
 
 After running, the system creates:
 
+data/
+├── MIT_students.csv
+├── Stanford_students.csv
+├── UC_Berkeley_students.csv
+└── Harvard_students.csv
+reports/
+└── comprehensive_report.xlsx
+├── Validation History
+├── All Students
+├── Statistics
+└── System Summary
+
 ## 🎓 Key Learnings
 
 This project demonstrates:
