@@ -1,0 +1,5 @@
+student_id,name,university,degree,cgpa,graduation_year,enrollment_date
+STAN001,Charlie Brown,Stanford University,Data Science,3.95,2023,2025-12-10
+STAN002,Eva Green,Stanford University,Machine Learning,3.78,2024,2025-12-10
+STAN003,Frank Miller,Stanford University,Artificial Intelligence,3.88,2023,2025-12-10
+STAN004,Helen Troy,Stanford University,Data Science,3.72,2024,2025-12-10

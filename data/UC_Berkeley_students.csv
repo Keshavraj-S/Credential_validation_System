@@ -1,0 +1,4 @@
+student_id,name,university,degree,cgpa,graduation_year,enrollment_date
+BERK001,Diana Prince,UC Berkeley,Cybersecurity,3.96,2024,2025-12-10
+BERK002,Grace Hopper,UC Berkeley,Software Engineering,4.0,2023,2025-12-10
+BERK003,Isaac Newton,UC Berkeley,Computer Science,3.89,2024,2025-12-10

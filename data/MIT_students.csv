@@ -1,0 +1,4 @@
+student_id,name,university,degree,cgpa,graduation_year,enrollment_date
+MIT001,Alice Johnson,MIT,Computer Science,3.85,2023,2025-12-10
+MIT002,Bob Smith,MIT,Electrical Engineering,3.62,2024,2025-12-10
+MIT003,Carol White,MIT,Mechanical Engineering,3.91,2023,2025-12-10
