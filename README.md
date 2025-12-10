@@ -98,6 +98,4 @@ This project demonstrates:
 - React frontend dashboard
 - Blockchain for immutable verification records
 
-```
-
 
